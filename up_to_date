@@ -1,0 +1,8 @@
+git fetch origin
+git commit -m
+git push origin name// to push new branch
+git branch name
+git check out name // to switch branch
+git push
+git add . to // to track chage
+git clone to download

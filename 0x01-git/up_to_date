@@ -1,3 +1,4 @@
+git pull
 git fetch origin
 git commit -m
 git push origin name// to push new branch
